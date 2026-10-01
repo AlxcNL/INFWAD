@@ -1,3 +1,7 @@
+function add(subtotal, element) {
+    return subtotal + element;    
+}
+
 function total1(nums) {
 
     let sum = 0;
@@ -25,9 +29,9 @@ function total3(nums) {
     return nums.reduce(add);
 }
 
-function add(subtotal, element) {
-    return subtotal + element;    
-}
+const total4 = (a, b) => {
+    return add(a, b)
+};
 
-module.exports = total1, total2, total3;
+module.exports = total1, total2, total3, total4;
 
