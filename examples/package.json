@@ -5,6 +5,7 @@
     "@babel/preset-typescript": "^8.0.1",
     "@types/jest": "^30.0.0",
     "babel-jest": "^30.5.2",
+    "jess": "2.0.0-alpha.7",
     "jest": "^30.5.2",
     "ts-jest": "^29.4.14",
     "typescript": "^7.0.2"

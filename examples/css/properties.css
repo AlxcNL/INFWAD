@@ -1,0 +1,15 @@
+/* ID Selector */
+#red {
+  background-color: red
+}
+
+/* Class Selector */
+.blue {
+  background-color: lightblue
+}
+
+/* Tag selector */
+p {
+  font-size: 20px;
+  background-color: yellow;
+}
