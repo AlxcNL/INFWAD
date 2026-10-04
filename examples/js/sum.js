@@ -30,7 +30,7 @@ function total3(nums) {
 }
 
 const total4 = (a, b) => {
-    return add(a, b)
+    return add(a, b);
 };
 
 module.exports = total1, total2, total3, total4;
