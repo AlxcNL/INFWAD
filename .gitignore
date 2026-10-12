@@ -5,3 +5,5 @@ examples/package-lock.json
 examples/my-ts-app
 Week03/
 Week14
+examples/my-router-app/public/
+.DS_Store

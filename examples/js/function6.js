@@ -15,4 +15,4 @@ async function retrieveInsult() {
 }
 
 retrieveInsult()
-
+console.log("Now!")

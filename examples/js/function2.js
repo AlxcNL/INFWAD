@@ -6,9 +6,6 @@ function faculty(n) {
     return acc; 
 }
 
-faculty(5)
+faculty(-1)
 
 
-const total4 = (a, b) => {
-    return add(a, b);
-};

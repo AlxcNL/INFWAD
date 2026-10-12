@@ -6,7 +6,7 @@ const total = numbers.reduce(
     // Anomymous function
     function(a, b) {
         // Template String        
-        console.log( `${highlight(a)} + ${highlight(b)}` )
+        console.log( `${highlight(a)} + ${xb}` )
         return a + b;
     }
 );
