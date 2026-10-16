@@ -16,6 +16,7 @@ body {
 }
 p {
   margin: 20px 0;
+  white-space: pre;
 }
 button {
   border: 0;
@@ -24,6 +25,10 @@ button {
   color: white;
   background: var(--primary);
   cursor: pointer;
+}
+
+#song {
+  white-space: pre;
 }
 
 /* navbar */
